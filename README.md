@@ -101,7 +101,7 @@ Reports are included, see the Project Report to know more!
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/VARADSP/Lab-Sharing-Using-Docker/`
+    - 👯 Clone this repo to your local machine using `https://github.com/vaibhavimishra/Lab-Sharing-Using-Docker/`
 
 ### Step 2
 
@@ -109,7 +109,7 @@ Reports are included, see the Project Report to know more!
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/VARADSP/Lab-Sharing-Using-Docker/compare/" target="_blank">`https://github.com/VARADSP/Lab-Sharing-Using-Docker/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/vaibhavimishra/Lab-Sharing-Using-Docker/compare/" target="_blank">`https://github.com/vaibhavimishra/Lab-Sharing-Using-Docker/compare/`</a>.
 
 ---
 
@@ -117,7 +117,7 @@ Reports are included, see the Project Report to know more!
 
 >  Contributors/People
 
-| <a href="https://github.com/VARADSP" target="_blank">**Varad Parlikar**</a> |<a href="https://github.com/VARADSP" target="_blank">`https://github.com/VARADSP`</a>|  [![FVCproductions](vsp.jpg)](https://github.com/VARADSP)    
+| <a href="https://github.com/VARADSP" target="_blank">**Vaibhavi Mishra**</a> |<a href="https://github.com/vaibhavimishra" target="_blank">`https://github.com/vaibhavimishra`</a>|  [![*](vsp.jpg)](https://github.com/vaibhavimishra)    
 |  
 
 
@@ -128,28 +128,9 @@ Reports are included, see the Project Report to know more!
 - **How do I do *specifically* so and so?**
     - No problem! Just do this.
 
----
-
-## Support
-
-Reach out to me at one of the following places!
-
-- Website at <a href="http://debuggingbug.wordpress.com" target="_blank">`debuggingbug.wordpress.com`</a>
-- Twitter at <a href="http://twitter.com/varadsp" target="_blank">`@varadsp`</a>
-- Facebook at Varad Parlikar
-
----
-
-## Donations (Optional)
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
-
-
----
-
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">VSPProductions</a>.
+- Copyright 2019 © <a href="http://fvcproductions.com" target="_blank">Vaibhavi</a>.
