@@ -1,4 +1,4 @@
-<a href="#"><img src="Logo.png" title="DockerMysql" alt="StackOfProjects"></a>
+<a href="#"><img src="Logo.png" title="DockerMysql" alt="StackOfProjects" width="250px" height="200px"></a>
 
 
 
@@ -7,7 +7,7 @@
 
 #  Lab Sharing Using Docker
 
-> Worked as an equal member of a four person team to develop webapp for sharing
+> WWe as a four people team developed webapp for sharing
 docker containers over the network in lab infrastructure.
 
 > This project provides students the GUI based containers having different tools
@@ -18,21 +18,9 @@ using volume sharing. MySQL database is used to manage container requests and
 serve them. Port forwarding is used to map containers to client browsers on
 request of client.
 
-
-
-
-
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) 
- [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
-
-
-- For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
-
-
-
 ---
 
-## Table of Contents (Optional)
+## Table of Contents
 
 
 - [Installation](#installation)
