@@ -1,4 +1,4 @@
-<a href="#"><img src="dockermysql.jpeg" title="DockerMysql" alt="StackOfProjects"></a>
+<a href="#"><img src="Logo.png" title="DockerMysql" alt="StackOfProjects"></a>
 
 
 
